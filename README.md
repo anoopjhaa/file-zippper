@@ -11,3 +11,5 @@ It currently works only for **text** files.
 1. Click on the "Choose File" button
 2. Select the file which you want to decompress
 3. Click on "Decode" Button and download the decoded/original text file.
+
+![image](https://github.com/anoopjhaa/file-zippper/assets/56754327/ee2d1979-88e7-412f-b820-40e60a9f593d)
